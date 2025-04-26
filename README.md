@@ -63,8 +63,8 @@ void main( )
 }
 
 Program to implement the DDA algorithm to draw a line using a c coding
-Developed by: JEEVANANDAM M  
-RegisterNumber: 212222220017
+Developed by: Tharun Kumar V 
+RegisterNumber: 212224240173
 ~~~
 **Output :**
 ![Screenshot 2025-04-26 132040](https://github.com/user-attachments/assets/e7458719-099c-4c87-a80a-3207e978e2df)
